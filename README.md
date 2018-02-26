@@ -1,2 +1,3 @@
-# curso_scrum
-Curso de Scrum para profesores
+# Curso de Scrum para profesores
+
+Disponible en https://pedroprieto.github.io/curso_scrum/
