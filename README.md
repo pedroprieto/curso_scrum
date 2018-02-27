@@ -1,4 +1,4 @@
-# Curso de Scrum para profesores
+# Uso de Scrum en la educación
 
 Disponible en [https://pedroprieto.github.io/curso_scrum/]()
 
