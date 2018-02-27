@@ -1,6 +1,6 @@
 # Curso de Scrum para profesores
 
-Disponible en https://pedroprieto.github.io/curso_scrum/
+Disponible en [https://pedroprieto.github.io/curso_scrum/]()
 
 ## Sesiones
 1. [Presentación](./sesion1.html)
