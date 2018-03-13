@@ -6,7 +6,7 @@ Disponible en [https://pedroprieto.github.io/curso_scrum/]()
 1. [Presentación](./sesion1.html)
    - Presentación y organización de contenidos
    - Nuevos enfoques en educación
-2. Introducción a Scrum (I)
+2. [Introducción a Scrum (I)](./sesion2.html)
    - Filosofía Agile/Lean
    - Teoría de Scrum I
    - Dinámica de Scrum
