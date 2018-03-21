@@ -10,7 +10,7 @@ Disponible en [https://pedroprieto.github.io/curso_scrum/]()
    - Filosofía Agile/Lean
    - Teoría de Scrum I
    - Dinámica de Scrum
-3. Introducción a Scrum (II)
+3. [Introducción a Scrum (II)](./sesion3.html)
    - La educación en el siglo XXI
    - Teoríá de Scrum II
    - Dinámica de Scrum
