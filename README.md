@@ -14,7 +14,7 @@ Disponible en [https://pedroprieto.github.io/curso_scrum/]()
    - La educación en el siglo XXI
    - Teoríá de Scrum II
    - Dinámica de Scrum
-4. El papel del profesor en Scrum
+4. [El papel del profesor en Scrum](./sesion4.html)
    - Creación de equipos
    - El Sprint
    - La Demostración
