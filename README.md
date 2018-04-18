@@ -21,7 +21,7 @@ Disponible en [https://pedroprieto.github.io/curso_scrum/]()
    - La Retrospectiva
    - La Evaluación
    - Problemas que pueden aparecer
-5. Técnicas Scrum
+5. [Técnicas Scrum](./sesion5.html)
    - Historias y tareas: organización del trabajo
    - Estimación y planificación
    - El Scrum diario
