@@ -1,27 +1,27 @@
 # Uso de Scrum en la educación
 
-Disponible en [https://pedroprieto.github.io/curso_scrum/]()
+Disponible en [https://pedroprieto.github.io/curso_scrum/](https://pedroprieto.github.io/curso_scrum/)
 
 ## Sesiones
-1. [Presentación](./sesion1.html)
+1. [Presentación](https://pedroprieto.github.io/curso_scrum//sesion1.html)
    - Presentación y organización de contenidos
    - Nuevos enfoques en educación
-2. [Introducción a Scrum (I)](./sesion2.html)
+2. [Introducción a Scrum (I)](https://pedroprieto.github.io/curso_scrum/sesion2.html)
    - Filosofía Agile/Lean
    - Teoría de Scrum I
    - Dinámica de Scrum
-3. [Introducción a Scrum (II)](./sesion3.html)
+3. [Introducción a Scrum (II)](https://pedroprieto.github.io/curso_scrum/sesion3.html)
    - La educación en el siglo XXI
    - Teoríá de Scrum II
    - Dinámica de Scrum
-4. [El papel del profesor en Scrum](./sesion4.html)
+4. [El papel del profesor en Scrum](https://pedroprieto.github.io/curso_scrum/sesion4.html)
    - Creación de equipos
    - El Sprint
    - La Demostración
    - La Retrospectiva
    - La Evaluación
    - Problemas que pueden aparecer
-5. [Técnicas Scrum](./sesion5.html)
+5. [Técnicas Scrum](https://pedroprieto.github.io/curso_scrum/sesion5.html)
    - Historias y tareas: organización del trabajo
    - Estimación y planificación
    - El Scrum diario
