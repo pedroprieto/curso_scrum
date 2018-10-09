@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="841mm"
+   height="594mm"
+   viewBox="0 0 841 594"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="scrumboard.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.16126161"
+     inkscape:cx="1511.7105"
+     inkscape:cy="1213.1275"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg8"
+     showgrid="true"
+     inkscape:window-width="1354"
+     inkscape:window-height="701"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid33"
+       units="mm"
+       spacingx="2"
+       spacingy="2" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.50046957;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4542"
+     width="273.06711"
+     height="570"
+     x="16.93289"
+     y="13.999983"
+     ry="1.3978139e-05"
+     inkscape:label="rect4542" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,297)"
+     style="display:inline">
+    <g
+       id="g4540"
+       inkscape:label="burndown"
+       style="display:inline"
+       transform="translate(0,-1.525879e-6)">
+      <rect
+         inkscape:label="burndownchart"
+         y="76.999985"
+         x="530"
+         height="209.81723"
+         width="296.81723"
+         id="rect29"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:0.50000001, 0.50000001;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         inkscape:label="textoburndown"
+         id="text4535"
+         y="191.49422"
+         x="544.86743"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.44852448px;line-height:1.25;font-family:'Serto Mardin';-inkscape-font-specification:'Serto Mardin';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81121314"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Serto Mardin';-inkscape-font-specification:'Serto Mardin';stroke-width:0.81121314"
+           y="191.49422"
+           x="544.86743"
+           id="tspan4533"
+           sodipodi:role="line">Burndown chart</tspan></text>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.76649475px;line-height:1.25;font-family:'Serto Mardin';-inkscape-font-specification:'Serto Mardin';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.44416237"
+     x="75.913231"
+     y="64.577316"
+     id="text4583"><tspan
+       sodipodi:role="line"
+       id="tspan4581"
+       x="75.913231"
+       y="64.577316"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Serto Mardin';-inkscape-font-specification:'Serto Mardin';stroke-width:1.44416237">To Do</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.76649475px;line-height:1.25;font-family:'Serto Mardin';-inkscape-font-specification:'Serto Mardin';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.44416237"
+     x="350.31955"
+     y="58.301414"
+     id="text4583-2"><tspan
+       sodipodi:role="line"
+       id="tspan4581-5"
+       x="350.31955"
+       y="58.301414"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Serto Mardin';-inkscape-font-specification:'Serto Mardin';stroke-width:1.44416237">Doing</tspan></text>
+  <rect
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4542-9"
+     width="270"
+     height="360"
+     x="290"
+     y="13.999983"
+     ry="8.8282986e-06"
+     inkscape:label="rect4542" />
+  <rect
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4542-9-7"
+     width="266.93292"
+     height="360"
+     x="560"
+     y="13.999983"
+     ry="8.8282986e-06"
+     inkscape:label="rect4542" />
+  <rect
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:2,0.5;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4654"
+     width="80"
+     height="150.00003"
+     x="430"
+     y="403.99997"
+     ry="9.8092223e-06"
+     rx="0" />
+  <rect
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:2,0.5;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4654-1"
+     width="80"
+     height="149.99997"
+     x="320"
+     y="403.99997"
+     ry="9.8092196e-06"
+     rx="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.59645653px;line-height:1.25;font-family:'Serto Mardin';-inkscape-font-specification:'Serto Mardin';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33991143"
+     x="432.29575"
+     y="423.2034"
+     id="text4673"><tspan
+       sodipodi:role="line"
+       id="tspan4671"
+       x="432.29575"
+       y="423.2034"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Serto Mardin';-inkscape-font-specification:'Serto Mardin';stroke-width:0.33991143">Team name</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.90596771px;line-height:1.25;font-family:'Serto Mardin';-inkscape-font-specification:'Serto Mardin';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29764923"
+     x="322.09738"
+     y="421.64038"
+     id="text4673-3"><tspan
+       sodipodi:role="line"
+       id="tspan4671-0"
+       x="322.09738"
+       y="421.64038"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Serto Mardin';-inkscape-font-specification:'Serto Mardin';stroke-width:0.29764923">Impediments</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.76649475px;line-height:1.25;font-family:'Serto Mardin';-inkscape-font-specification:'Serto Mardin';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.44416237"
+     x="624.82642"
+     y="64.577316"
+     id="text4583-2-9"><tspan
+       sodipodi:role="line"
+       id="tspan4581-5-9"
+       x="624.82642"
+       y="64.577316"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Serto Mardin';-inkscape-font-specification:'Serto Mardin';stroke-width:1.44416237">Done</tspan></text>
+</svg>
