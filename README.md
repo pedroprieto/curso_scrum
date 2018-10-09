@@ -40,7 +40,8 @@ Disponible en [https://pedroprieto.github.io/curso_scrum/](https://pedroprieto.g
 - Scrumboard
     - [Scrumboard - Completa - SVG](https://pedroprieto.github.io/curso_scrum/recursos/scrumboard.svg)
     - [Scrumboard - Completa - A1](https://pedroprieto.github.io/curso_scrum/recursos/scrumboard-completa_A1.pdf)
-    - [Scrumboard - 1/4 - A3](https://pedroprieto.github.io/curso_scrum/recursos/scrumboard-1_A3.pdf)
-    - [Scrumboard - 2/4 - A3](https://pedroprieto.github.io/curso_scrum/recursos/scrumboard-2_A3.pdf)
-    - [Scrumboard - 3/4 - A3](https://pedroprieto.github.io/curso_scrum/recursos/scrumboard-3_A3.pdf)
-    - [Scrumboard - 4/4 - A3](https://pedroprieto.github.io/curso_scrum/recursos/scrumboard-4_A3.pdf)
+    - A continuación se proporciona la plantilla para imprimir en 4 A3. Así se pueden imprimir por separado, plastificar y por último unir mediante celofán. De esta manera la __scrumboard_ se puede plegar y guardar para recogerla al finalizar las clases.
+        - [Scrumboard - 1/4 - A3](https://pedroprieto.github.io/curso_scrum/recursos/scrumboard-1_A3.pdf)
+        - [Scrumboard - 2/4 - A3](https://pedroprieto.github.io/curso_scrum/recursos/scrumboard-2_A3.pdf)
+        - [Scrumboard - 3/4 - A3](https://pedroprieto.github.io/curso_scrum/recursos/scrumboard-3_A3.pdf)
+        - [Scrumboard - 4/4 - A3](https://pedroprieto.github.io/curso_scrum/recursos/scrumboard-4_A3.pdf)
